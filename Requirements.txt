@@ -11,9 +11,14 @@ Informations
 
 name: Subash Sapkota
 phone: 9860464577
+
 name: suraj dhakal
 phone: 9862155911
 
 name: Sandesh Balaya Shrestha
 phone: 9843648926
 email: unovaxan@gmail.com
+
+name: Jit Bahadur Khamcha
+phone: 9843753420
+email: jitu.khamcha516@gmail.com
