@@ -11,6 +11,7 @@ Informations
 
 name: Subash Sapkota
 phone: 9860464577
+
 name: suraj dhakal
 phone: 9862155911
 
@@ -21,3 +22,7 @@ email: unovaxan@gmail.com
 name: Sishir Rijal
 Phone: 9844629535
 email: sishir068@gmail.com
+
+name: Jit Bahadur Khamcha
+phone: 9843753420
+email: jitu.khamcha516@gmail.com=
