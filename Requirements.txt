@@ -1,0 +1,6 @@
+python version 3.6.3
+django version 1.9 or above
+database: mysqlite default hunxa
+html 5 and css 
+
+Idle : Pycharm or you can have your own
