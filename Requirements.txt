@@ -4,3 +4,10 @@ database: mysqlite default hunxa
 html 5 and css 
 
 Idle : Pycharm or you can have your own
+
+
+
+Informations
+
+name: Subash Sapkota
+phone: 9860464577
