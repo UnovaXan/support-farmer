@@ -17,3 +17,7 @@ phone: 9862155911
 name: Sandesh Balaya Shrestha
 phone: 9843648926
 email: unovaxan@gmail.com
+
+name: Sishir Rijal
+Phone: 9844629535
+email: sishir068@gmail.com
