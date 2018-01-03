@@ -25,4 +25,10 @@ email: sishir068@gmail.com
 
 name: Jit Bahadur Khamcha
 phone: 9843753420
-email: jitu.khamcha516@gmail.com=
+email: jitu.khamcha516@gmail.com
+
+To run the project
+python manage.py runserver
+127.0.0.1:8000/admin
+admin username = Teamnoobie
+	password = hello123
